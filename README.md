@@ -53,11 +53,11 @@
 }
 ```
 
- **15. Отправить сразу 2 файла на внешний репозиторий.**
+ **15. Отправить сразу 2 файла на внешний репозиторий.** 
 	
-	```git add preferences.json skills.json```
-	```git commit```
-	```git push```
+``git add preferences.json skills.json``
+	``git commit``
+``git push``
 	
  **16. На веб интерфейсе создать файл bug_report.json.**
  
