@@ -1,0 +1,7 @@
+{
+"Title":"Info What,where and when",
+"Steps to introduce":"Step1, Step2, Step3, etc",
+"Actual result":"Info about actual result",
+"Expected result":"info about expected result",
+"Severity":"Blocker, Critical, Major, Minor, Low"
+}
